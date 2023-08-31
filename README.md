@@ -13,7 +13,7 @@ Official Implementation of "Low-Light Salient Object Detection Meets the Small S
 ## Download dataset
 Download the following dataset and unzip them into `data` folder
 We conduct experiments on our proposed NTI dataset and a widely used dataset, DUTS-TE.
-- DUTS-TE: [Google]()
+- [DUTS-TE]| (https://drive.google.com/file/d/1HgIOSQkQX8W8A3JvOYD5LB7hSotvukOz/view?usp=sharing)
 - NTI dataset will be available upon acceptance of our manuscript.
 
 ## Training
@@ -33,9 +33,9 @@ main
 We provide prediction results of our proposed IEDNet model based on different backbones through SI, on the DUT-TE dataset.
 | Model         | Backbone           | Test Set       |  Predictions  |
 |---------------|----------------|-----------------|------------|
-| IEDNet | ResNet | DUT-TE | [DUT-TE](https://drive.google.com/file/d/1d5zSqUti2ubvhDOMUSZoNAP3a5MG4Fv_/view?usp=sharing) 
-| IEDNet | Res2Net | DUT-TE | [DUT-TE](https://drive.google.com/file/d/13Fp-c3mHX8sOw18NRyLTyUxvuzh6Oaj2/view?usp=sharing) 
-| IEDNet |  PVTV2-1K | DUT-TE | [DUT-TE](https://drive.google.com/file/d/1fggNZLdVLe3YKK3YiqS8hh3HnlN_cNHe/view?usp=sharing) 
+| IEDNet | ResNet | DUTS-TE | [DUT-TE](https://drive.google.com/file/d/1d5zSqUti2ubvhDOMUSZoNAP3a5MG4Fv_/view?usp=sharing) 
+| IEDNet | Res2Net | DUTS-TE | [DUT-TE](https://drive.google.com/file/d/13Fp-c3mHX8sOw18NRyLTyUxvuzh6Oaj2/view?usp=sharing) 
+| IEDNet |  PVTV2-1K | DUTS-TE | [DUT-TE](https://drive.google.com/file/d/1fggNZLdVLe3YKK3YiqS8hh3HnlN_cNHe/view?usp=sharing) 
 
 Meanwhile, we provide the Mask2Former model trained on synthetic COCO (synthesized by our SI strategy).
 
