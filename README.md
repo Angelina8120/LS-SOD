@@ -12,8 +12,8 @@ Official Implementation of "Low-Light Salient Object Detection Meets the Small S
 
 ## Download dataset
 Download the following dataset and unzip them into `data` folder
-We conduct experiments on our proposed NTI dataset and a widely used dataset, DUTS-TE.
-- [DUTS](http://saliencydetection.net/duts/)
+We conduct experiments on our proposed NTI dataset and a widely used dataset, DUTS.
+- DUTS: [Google](https://drive.google.com/file/d/1ivK2BCJN8B9UkX_Psf4WF5UcCyxFsTi3/view?usp=sharing) | [Baidu 提取码:ak5t](https://pan.baidu.com/s/1l5UIQYVNRDAX9qg-T09R-g)
 - NTI dataset will be available upon acceptance of our manuscript.
 
 ## Training
