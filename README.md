@@ -14,7 +14,7 @@ Official Implementation of "Low-Light Salient Object Detection Meets the Small S
 Download the following dataset and unzip them into `data` folder
 We conduct experiments on our proposed NTI dataset and a widely used dataset, DUTS-TE.
 - [DUTS](http://saliencydetection.net/duts/)
-NTI dataset will be available upon acceptance of our manuscript.
+- NTI dataset will be available upon acceptance of our manuscript.
 
 ## Training
 Training code will be available upon acceptance of our manuscript.
@@ -38,6 +38,7 @@ We provide prediction results of our proposed IEDNet model based on different ba
 | IEDNet |  PVTV2-1K | DUT-TE | [DUT-TE](https://drive.google.com/file/d/1fggNZLdVLe3YKK3YiqS8hh3HnlN_cNHe/view?usp=sharing) 
 
 Meanwhile, we provide the Mask2Former model trained on synthetic COCO (synthesized by our SI strategy).
+
 | Model         | Backbone           | Train set       | Box AP | Config | CKPT |
 |---------------|----------------|-----------------|------------|-----------------|------------|------------|
 | Mask2Former | ResNet50 | Syn COCO | 38.9 | [Config](https://drive.google.com/file/d/1pSHm0h84Qgj2gVD1FgDGQvfi4PxdoAKm/view?usp=sharing) |[CKPT](https://drive.google.com/file/d/1Hr71EfT_vUMpLkFqampevLbljBcNnsms/view?usp=sharing) 
