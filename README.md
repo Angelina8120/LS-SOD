@@ -40,7 +40,7 @@ We provide prediction results of our proposed IEDNet model based on different ba
 Meanwhile, we provide the Mask2Former model trained on synthetic COCO (synthesized by our SI strategy).
 
 | Model         | Backbone           | Train set       | Box AP | Config | CKPT |
-|---------------|----------------|-----------------|------------|-----------------|------------|------------|
+|---------------|----------------|-----------------|------------|-----------------|------------|
 | Mask2Former | ResNet50 | Syn COCO | 38.9 | [Config](https://drive.google.com/file/d/1pSHm0h84Qgj2gVD1FgDGQvfi4PxdoAKm/view?usp=sharing) |[CKPT](https://drive.google.com/file/d/1Hr71EfT_vUMpLkFqampevLbljBcNnsms/view?usp=sharing) 
 
 - If you have any questions, please get in touch with wangshiqin@wust.edu.cn
