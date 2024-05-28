@@ -21,7 +21,7 @@ Official Implementation of "Low-Light Salient Object Detection Meets the Small S
 Download the following dataset and unzip them into `data` folder
 We conduct experiments on our proposed LSPV-Test dataset and a widely used dataset, DUTS-TE.
 - [DUTS-TE](https://drive.google.com/file/d/1HgIOSQkQX8W8A3JvOYD5LB7hSotvukOz/view?usp=sharing)
-- Our proposed LSPV dataset will be available upon acceptance of our manuscript. Partial images and corresponding pixel-wise annotations from our constructed LSPV-Test can be downloaded on [Image](https://drive.google.com/file/d/1U9cj9YKYvN52fDigjJynEfeTTy5xQS-B/view?usp=drive_link) and [Mask](https://drive.google.com/file/d/1psN559P2RUdtcusYdb2fml_SoVUPcoNo/view?usp=sharing), respectively.
+- Our proposed LSPV dataset will be available upon acceptance of our manuscript. Partial images and corresponding pixel-wise annotations from our constructed LSPV-Test can be downloaded on [Image](https://drive.google.com/file/d/1UbehK4CBaw9cwt_lv9u67jJWtAii5E-9/view?usp=drive_link) and [Mask](https://drive.google.com/file/d/1JuFSygBRJYWXs2ZEBwaEyjPGS8O22tok/view?usp=drive_link), respectively.
 
 ## Training
 Training code will be available upon acceptance of our manuscript.
