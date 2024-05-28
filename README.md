@@ -5,7 +5,7 @@ Official Implementation of "Low-Light Salient Object Detection Meets the Small S
 ## Low light Salient Pedestrian/Vehicle (LSPV) Dataset
 - Recent years have witnessed rapid progress if Salient Object Detection (SOD). However, relatively few efforts have been dedicated to modeling salient object detection in low-light scenes with small pedestrians/vehicles. Furthermore, realistic applications of salient pedestrian/vehicle detection at long distances in low-light environments commonly exist in nighttime surveillance and nighttime autonomous driving. In particular, for autonomous driving at night, detecting pedestrians/vehicles with high reliability is paramount for safety. To fill the gap, we elaborately collect a new Low light Salient Pedestrian/Vehicle (LSPV) dataset, which consists of 3,100 low-light small pedestrian/vehicles images, and covers diverse challenging cases (e.g., low-light, non-uniform illumination environment, and small objects).
 
-- Representative images and corresponding ground-truth masks in the LISP dataset
+- Representative images and corresponding ground-truth masks in the LSPV dataset
 
 ![representative](./fig/representative.png)
 
