@@ -2,6 +2,13 @@
 Official Implementation of "Low-Light Salient Object Detection Meets the Small Size"
 - Since our paper is still under review, we will release our code and dataset once the paper is accepted. Thanks for your understanding.
 
+## Low light Salient Pedestrian/Vehicle (LSPV) Dataset
+- Recent years have witnessed rapid progress if Salient Object Detection (SOD). However, relatively few efforts have been dedicated to modeling salient object detection in low-light scenes with small pedestrians/vehicles. Furthermore, realistic applications of salient pedestrian/vehicle detection at long distances in low-light environments commonly exist in nighttime surveillance and nighttime autonomous driving. In particular, for autonomous driving at night, detecting pedestrians/vehicles with high reliability is paramount for safety. To fill the gap, we elaborately collect a new Low light Salient Pedestrian/Vehicle (LSPV) dataset, which consists of 3,100 low-light small pedestrian/vehicles images, and covers diverse challenging cases (e.g., low-light, non-uniform illumination environment, and small objects).
+
+- LSPV dataset are not openly available due to human data and are available upon reasonable request for academic use and within the limitations of the provided informer consent upon acceptance. By downloading the dataset, you guarantee that you will use this dataset for academic work only. Furthermore, our data processing pipeline involves dedicated measures for data protection that pertain to the entire life cycle of the data, i.e., in the collection, storage, annotation, anonymization, and distribution of the data. However, if you find yourself or your personal belongings in the dataset, you can contact us and we will immediately delete the respective images in the LISP.
+
+- Approval was obtained from the School of Computer Science and Technology, Wuhan University of Science and Technology. The research was performed under the oversight of the School of Computer Science and Technology, Wuhan University of Science and Technology. The procedures used in this study adhere to the tenets of the Declaration of Helsinki. You can find detailed materials in the Licence folder. 
+
 ## Prerequisites
 - [Python 3.5](https://www.python.org/)
 - [Pytorch 1.3.1](http://pytorch.org/)
